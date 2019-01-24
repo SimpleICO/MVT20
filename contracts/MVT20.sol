@@ -2,7 +2,7 @@ pragma solidity >=0.4.21 <0.6.0;
 
 import "../node_modules/openzeppelin-solidity/contracts/token/ERC20/ERC20.sol";
 import "../node_modules/openzeppelin-solidity/contracts/token/ERC20/ERC20Detailed.sol";
-import "../node_modules/openzeppelin-solidity/contracts/access/roles/WhitelistedRole.sol";
+import "./SimpleWhitelist.sol";
 
 /**
  * @title Security Token ERC20 token
@@ -13,7 +13,7 @@ import "../node_modules/openzeppelin-solidity/contracts/access/roles/Whitelisted
  * Tokens may only be transferred if the holder is whitelisted by a WhitelistAdmin
  */
 
-contract ST20 is ERC20, ERC20Detailed, WhitelistedRole {
+contract MVT20 is ERC20, ERC20Detailed, SimpleWhitelist {
 
     constructor (
         uint256 supply,
