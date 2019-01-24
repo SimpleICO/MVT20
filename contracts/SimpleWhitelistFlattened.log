@@ -1,0 +1,23 @@
+2019/01/24 12:50:31 pre processing SimpleWhitelist.sol
+2019/01/24 12:50:31 pre processing ../node_modules/openzeppelin-solidity/contracts/access/roles/WhitelistedRole.sol
+2019/01/24 12:50:31 pre processing ../node_modules/openzeppelin-solidity/contracts/access/roles/WhitelistAdminRole.sol
+2019/01/24 12:50:31 pre processing ../node_modules/openzeppelin-solidity/contracts/access/Roles.sol
+2019/01/24 12:50:31 Resolved  Roles.sol
+2019/01/24 12:50:31 WhitelistAdminRole.sol remains unresolved
+2019/01/24 12:50:31 WhitelistedRole.sol remains unresolved
+2019/01/24 12:50:31 SimpleWhitelist.sol remains unresolved
+2019/01/24 12:50:31 WhitelistAdminRole.sol remains unresolved
+2019/01/24 12:50:31 WhitelistedRole.sol remains unresolved
+2019/01/24 12:50:31 SimpleWhitelist.sol remains unresolved
+2019/01/24 12:50:31 Written Roles.sol (35) lines
+2019/01/24 12:50:31 Resolved  WhitelistAdminRole.sol
+2019/01/24 12:50:31 WhitelistedRole.sol remains unresolved
+2019/01/24 12:50:31 SimpleWhitelist.sol remains unresolved
+2019/01/24 12:50:31 WhitelistedRole.sol remains unresolved
+2019/01/24 12:50:31 SimpleWhitelist.sol remains unresolved
+2019/01/24 12:50:31 Written WhitelistAdminRole.sol (40) lines
+2019/01/24 12:50:31 Resolved  WhitelistedRole.sol
+2019/01/24 12:50:31 SimpleWhitelist.sol remains unresolved
+2019/01/24 12:50:31 Written WhitelistedRole.sol (40) lines
+2019/01/24 12:50:31 Resolved  SimpleWhitelist.sol
+2019/01/24 12:50:31 Written SimpleWhitelist.sol (85) lines

@@ -1,0 +1,51 @@
+2019/01/24 12:51:22 pre processing MVT20.sol
+2019/01/24 12:51:22 pre processing ../node_modules/openzeppelin-solidity/contracts/token/ERC20/ERC20.sol
+2019/01/24 12:51:22 pre processing ../node_modules/openzeppelin-solidity/contracts/token/ERC20/ERC20Detailed.sol
+2019/01/24 12:51:22 pre processing ../node_modules/openzeppelin-solidity/contracts/math/SafeMath.sol
+2019/01/24 12:51:22 pre processing SimpleWhitelist.sol
+2019/01/24 12:51:22 pre processing ../node_modules/openzeppelin-solidity/contracts/token/ERC20/IERC20.sol
+2019/01/24 12:51:22 pre processing ../node_modules/openzeppelin-solidity/contracts/access/roles/WhitelistedRole.sol
+2019/01/24 12:51:22 pre processing ../node_modules/openzeppelin-solidity/contracts/access/Roles.sol
+2019/01/24 12:51:22 pre processing ../node_modules/openzeppelin-solidity/contracts/access/roles/WhitelistAdminRole.sol
+2019/01/24 12:51:22 Resolved  SafeMath.sol
+2019/01/24 12:51:22 WhitelistedRole.sol remains unresolved
+2019/01/24 12:51:22 ERC20.sol remains unresolved
+2019/01/24 12:51:22 SimpleWhitelist.sol remains unresolved
+2019/01/24 12:51:22 MVT20.sol remains unresolved
+2019/01/24 12:51:22 Resolved  IERC20.sol
+2019/01/24 12:51:22 Resolved  Roles.sol
+2019/01/24 12:51:22 WhitelistAdminRole.sol remains unresolved
+2019/01/24 12:51:22 ERC20Detailed.sol remains unresolved
+2019/01/24 12:51:22 WhitelistAdminRole.sol remains unresolved
+2019/01/24 12:51:22 ERC20Detailed.sol remains unresolved
+2019/01/24 12:51:22 SimpleWhitelist.sol remains unresolved
+2019/01/24 12:51:22 MVT20.sol remains unresolved
+2019/01/24 12:51:22 Written IERC20.sol (18) lines
+2019/01/24 12:51:22 Written Roles.sol (35) lines
+2019/01/24 12:51:22 ERC20.sol remains unresolved
+2019/01/24 12:51:22 Written SafeMath.sol (60) lines
+2019/01/24 12:51:22 WhitelistedRole.sol remains unresolved
+2019/01/24 12:51:22 Resolved  WhitelistAdminRole.sol
+2019/01/24 12:51:22 Resolved  ERC20Detailed.sol
+2019/01/24 12:51:22 SimpleWhitelist.sol remains unresolved
+2019/01/24 12:51:22 MVT20.sol remains unresolved
+2019/01/24 12:51:22 Resolved  ERC20.sol
+2019/01/24 12:51:22 WhitelistedRole.sol remains unresolved
+2019/01/24 12:51:22 Written ERC20.sol (171) lines
+2019/01/24 12:51:22 WhitelistedRole.sol remains unresolved
+2019/01/24 12:51:22 Written ERC20Detailed.sol (33) lines
+2019/01/24 12:51:22 SimpleWhitelist.sol remains unresolved
+2019/01/24 12:51:22 MVT20.sol remains unresolved
+2019/01/24 12:51:22 Written WhitelistAdminRole.sol (40) lines
+2019/01/24 12:51:22 Resolved  WhitelistedRole.sol
+2019/01/24 12:51:22 SimpleWhitelist.sol remains unresolved
+2019/01/24 12:51:22 MVT20.sol remains unresolved
+2019/01/24 12:51:22 SimpleWhitelist.sol remains unresolved
+2019/01/24 12:51:22 MVT20.sol remains unresolved
+2019/01/24 12:51:22 Written WhitelistedRole.sol (40) lines
+2019/01/24 12:51:22 Resolved  SimpleWhitelist.sol
+2019/01/24 12:51:22 MVT20.sol remains unresolved
+2019/01/24 12:51:22 MVT20.sol remains unresolved
+2019/01/24 12:51:22 Written SimpleWhitelist.sol (85) lines
+2019/01/24 12:51:22 Resolved  MVT20.sol
+2019/01/24 12:51:22 Written MVT20.sol (45) lines

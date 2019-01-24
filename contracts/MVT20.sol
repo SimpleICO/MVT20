@@ -2,6 +2,7 @@ pragma solidity >=0.4.21 <0.6.0;
 
 import "../node_modules/openzeppelin-solidity/contracts/token/ERC20/ERC20.sol";
 import "../node_modules/openzeppelin-solidity/contracts/token/ERC20/ERC20Detailed.sol";
+import "../node_modules/openzeppelin-solidity/contracts/math/SafeMath.sol";
 import "./SimpleWhitelist.sol";
 
 /**
@@ -15,6 +16,8 @@ import "./SimpleWhitelist.sol";
 
 contract MVT20 is ERC20, ERC20Detailed, SimpleWhitelist {
 
+    using SafeMath for uint256;
+
     constructor (
         uint256 supply,
         string memory name, 
@@ -27,7 +30,8 @@ contract MVT20 is ERC20, ERC20Detailed, SimpleWhitelist {
             decimals
         ) 
     {
-        _mint(msg.sender, supply);
+        uint256 _supply = supply.mul(1 ether);
+        _mint(msg.sender, _supply);
     }
 
     /**
